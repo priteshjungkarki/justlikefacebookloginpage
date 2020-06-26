@@ -1,0 +1,113 @@
+body{
+  background-color: #e9ebee;
+}
+header {
+  background-color: #4267b2;
+  height: 50px;
+  width:100%;
+  position: fixed;
+  left: 0px;
+  top:0px;
+  z-index:9;
+
+}
+
+#header ul .glyphicon {
+   font-size: 20px;
+}
+
+#white-text {
+  color: white;
+}
+.white-text {
+  color: white !important;
+}
+#wrapper {
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+
+.pull-right {
+    float: right !important;
+    padding-right: 300px;
+}
+
+#menu{
+  background-color: #e9ebee;
+  margin-top: 50px;
+
+}
+#sidebar {
+  background-color: white;
+  margin-top: 50px;
+}
+
+#main{
+  background-color: #e9ebee;
+  margin-top: 50px;
+
+  
+}
+#main {
+    overflow: auto;
+}
+#main::-webkit-scrollbar{
+    display: none;
+}
+ul{
+  padding-right: 100px;
+
+
+}
+a { 
+  color: black;
+}
+#username{
+	padding-left:30px;
+	padding-top: 5px;
+  line-height: 30px; 
+}
+.panel-body .glyphicon {
+    margin-left: 10px;
+    margin-right: 4px;
+}
+p {
+  margin: 0 0 10px;
+}
+.comment {
+    margin: 0;
+}
+#panel-body{
+ background-color: #e9ebee;
+}
+.fake-input {
+    position: relative;
+}
+.fake-input img {
+    position: absolute;  
+    top: 50px;
+    left:0px;
+}
+
+
+
+
+
+       
+        
+
+        
+        
+
+
+             
+
+ 
+
+
+
+
+      
+     
+
+
